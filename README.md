@@ -1,5 +1,3 @@
-# Endometrial-Cancer-Detection-Using-Transfer-Learning-and-Hybrid-Approach
-
 # Endometrial Cancer Detection Using Transfer Learning and Hybrid Deep Learning Approaches
 
 ## Overview
