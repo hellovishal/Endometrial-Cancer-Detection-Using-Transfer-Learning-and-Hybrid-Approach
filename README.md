@@ -167,7 +167,7 @@ The models were evaluated using:
 
 ```text
 .
-├── 1.ipynb                  # Model training and evaluation notebook
+├── endometrial_cancer_detection.ipynb                  # Model training and evaluation notebook
 ├── Major_Project_Report.pdf # Detailed project report
 ├── Dataset/
 │   ├── EA/
